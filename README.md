@@ -58,8 +58,9 @@ python bot.py
 
 > 💡 For Python beginners:  
 > Instead of installing packages individually, you can install all dependencies using the `requirements.txt` file:
+> pip install -r requirements.txt
 ```bash
-pip install -r requirements.txt
+
 
 
 ---
