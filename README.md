@@ -56,6 +56,12 @@ https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=https://yourdomain.c
 python bot.py
 ```
 
+> 💡 For Python beginners:  
+> Instead of installing packages individually, you can install all dependencies using the `requirements.txt` file:
+```bash
+pip install -r requirements.txt
+
+
 ---
 
 ## 📝 Commands
