@@ -1,6 +1,6 @@
 # ThughGen — Password Generator Bot 🔐
 
-![ThughGen Logo](logo.png)
+![ThughGen Logo](thugh-gen.png)
 
 
 ````markdown
