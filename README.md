@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MRThugh/thughgen-webhook-bot/main/logo.png" alt="ThughGen Logo" width="200" />
+</p>
 
 ````markdown
 # ThughGen Webhook Bot
